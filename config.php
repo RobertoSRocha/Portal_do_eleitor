@@ -6,7 +6,7 @@
 
     /** caminho no server para o sistema **/
     if (!defined('BASEURL')){
-        define('BASEURL', '/SAA/');
+        define('BASEURL', '/Portal_do_eleitor/');
     }
 
     /** O nome do banco de dados */ 
