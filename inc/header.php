@@ -31,6 +31,18 @@
         <link rel="stylesheet" href="<?php echo BASEURL; ?>bower_components/bootstrap-daterangepicker/daterangepicker.css">
         <!-- bootstrap wysihtml5 - text editor -->
         <link rel="stylesheet" href="<?php echo BASEURL; ?>plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css">
+        <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+        <!-- Bootstrap 3.3.7 -->
+        <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.min.css">
+        <!-- Font Awesome -->
+        <link rel="stylesheet" href="../../bower_components/font-awesome/css/font-awesome.min.css">
+        <!-- Ionicons -->
+        <link rel="stylesheet" href="../../bower_components/Ionicons/css/ionicons.min.css">
+        <!-- Theme style -->
+        <link rel="stylesheet" href="../../dist/css/AdminLTE.min.css">
+        <!-- AdminLTE Skins. Choose a skin from the css/skins
+             folder instead of downloading all of them to reduce the load. -->
+        <link rel="stylesheet" href="../../dist/css/skins/_all-skins.min.css">
 
         <!-- Google Font -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
@@ -52,15 +64,14 @@
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse pull-left" id="navbar-collapse">
                             <ul class="nav navbar-nav">
-                                <li class="active"><a href="#">Início <span class="sr-only">(current)</span></a></li>
-                                <li><a href="#">Notícias</a></li>  
+                                <li><a href="#" title="página inicial">Início</a></li>
+                                <li><a title="Site do TSE" target="blank" href="http://dados.gov.br/organization/tribunal-superior-eleitoral-tse">Dados abertos</a></li>  
                             </ul>
                         </div>
                         <!-- /.navbar-collapse -->
                         <!-- Navbar Right Menu -->
                         <div class="navbar-custom-menu">
                             <ul class="nav navbar-nav">
-                                <li><a href="#">Quem somos</a></li>
                                 <li>
                                     <form class="navbar-form navbar-left" role="search">
                                         <div class="form-group">
