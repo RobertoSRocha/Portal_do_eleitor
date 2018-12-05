@@ -41,7 +41,7 @@
                 <div class="col-md-12">
                     <div class="box box-info">
                         <div class="box-header with-border text-center">
-                            <h3 class="box-title">Variação da faixa etária dos eleitores e candidatos no passar dos anos</h3>
+                            <h3 class="box-title">Variação média da faixa etária dos eleitores e candidatos no passar dos anos</h3>
                         </div>
                         <!-- /.box-header -->
                         <div class="box-body">
@@ -65,7 +65,7 @@
                         <div class="box-footer no-border">
                             <div class="row">
                                 <div class="col-xs-6 text-center">
-                                    <div class="box-title bg-gray">Cinza = dados dos candidatos</div>
+                                    <div class="box-title bg-gray">Cinza = dados dos candidatos eleitos</div>
                                 </div>
                                 <!-- ./col -->
                                 <div class="col-xs-6 text-center">
@@ -86,7 +86,7 @@
                 <!-- DONUT CHART -->
                 <div class="box box-danger">
                     <div class="box-header with-border text-center">
-                        <h3 class="box-title">Variação da faixa etária dos eleitores e candidatos no passar dos anos</h3>
+                        <h3 class="box-title">Variação média da faixa etária dos eleitores e candidatos eleitos no passar dos anos</h3>
                     </div>
                     <div class="box-body">
                         <canvas  id="barChart" style="height:250px"></canvas>
@@ -95,7 +95,7 @@
                     <div class="box-footer no-border">
                         <div class="row">
                             <div class="col-xs-6 text-center">
-                                <div class="box-title bg-gray">Cinza = dados dos candidatos</div>
+                                <div class="box-title bg-gray">Cinza = dados dos candidatos eleitos</div>
                             </div>
                             <!-- ./col -->
                             <div class="col-xs-6 text-center">
@@ -114,7 +114,7 @@
                 <!-- LINE CHART -->
                 <div class="box box-info">
                     <div class="box-header with-border text-center">
-                        <h3 class="box-title">Variação da faixa etária dos eleitores e candidatos no passar dos anos</h3>
+                        <h3 class="box-title">Variação média da faixa etária dos eleitores e candidatos eleitos no passar dos anos</h3>
                     </div>
                     <div class="box-body">
                         <div class="chart">
@@ -124,7 +124,7 @@
                     <div class="box-footer no-border">
                         <div class="row">
                             <div class="col-xs-6 text-center">
-                                <div class="box-title bg-gray">Cinza = dados dos candidatos</div>
+                                <div class="box-title bg-gray">Cinza = dados dos candidatos eleitos</div>
                             </div>
                             <!-- ./col -->
                             <div class="col-xs-6 text-center">
@@ -141,7 +141,7 @@
                 <!-- BAR CHART -->
                 <div class="box box-success" style="display: none;">
                     <div class="box-header with-border">
-                        <h3 class="box-title">Variação da faixa etária dos eleitores e candidatos no passar dos anos</h3>
+                        <h3 class="box-title">Variação média da faixa etária dos eleitores e candidatos eleitos no passar dos anos</h3>
                     </div>
                     <div class="box-body">
                         <div class="chart">
@@ -151,7 +151,7 @@
                     <div class="box-footer no-border">
                         <div class="row">
                             <div class="col-xs-6 text-center">
-                                <div class="box-title bg-gray">Cinza = dados dos candidatos</div>
+                                <div class="box-title bg-gray">Cinza = dados dos candidatos eleitos</div>
                             </div>
                             <!-- ./col -->
                             <div class="col-xs-6 text-center">
@@ -179,7 +179,7 @@
                 <div class="col-md-12">
                     <div class="box box-info">
                         <div class="box-header with-border text-center">
-                            <h3 class="box-title">Variação do grau de escolaridade dos eleitores e candidatos no passar dos anos</h3>
+                            <h3 class="box-title">Variação média em porcentagem do grau de escolaridade dos eleitores e candidatos eleitos no passar dos anos</h3>
                         </div>
                         <!-- /.box-header -->
                         <div class="box-body">
@@ -203,7 +203,7 @@
                         <div class="box-footer no-border">
                             <div class="row">
                                 <div class="col-xs-6 text-center">
-                                    <div class="box-title bg-gray">Cinza = dados dos candidatos</div>
+                                    <div class="box-title bg-gray">Cinza = dados dos candidatos eleitos</div>
                                 </div>
                                 <!-- ./col -->
                                 <div class="col-xs-6 text-center">
@@ -224,7 +224,7 @@
                 <!-- DONUT CHART -->
                 <div class="box box-danger">
                     <div class="box-header with-border text-center">
-                        <h3 class="box-title">Variação do grau de escolaridade dos eleitores e candidatos no passar dos anos</h3>
+                        <h3 class="box-title">Variação média do grau de escolaridade dos eleitores e candidatos eleitos no passar dos anos</h3>
                     </div>
                     <div class="box-body">
                         <canvas  id="barChart3" style="height:250px"></canvas>
@@ -233,7 +233,7 @@
                     <div class="box-footer no-border">
                         <div class="row">
                             <div class="col-xs-6 text-center">
-                                <div class="box-title bg-gray">Cinza = dados dos candidatos</div>
+                                <div class="box-title bg-gray">Cinza = dados dos candidatos eleitos</div>
                             </div>
                             <!-- ./col -->
                             <div class="col-xs-6 text-center">
@@ -252,7 +252,7 @@
                 <!-- LINE CHART -->
                 <div class="box box-info">
                     <div class="box-header with-border text-center">
-                        <h3 class="box-title">Variação do grau de escolaridade dos eleitores e candidatos no passar dos anos</h3>
+                        <h3 class="box-title">Variação do grau de escolaridade dos eleitores e candidatos eleitos no passar dos anos</h3>
                     </div>
                     <div class="box-body">
                         <div class="chart">
@@ -262,7 +262,7 @@
                     <div class="box-footer no-border">
                         <div class="row">
                             <div class="col-xs-6 text-center">
-                                <div class="box-title bg-gray">Cinza = dados dos candidatos</div>
+                                <div class="box-title bg-gray">Cinza = dados dos candidatos eleitos</div>
                             </div>
                             <!-- ./col -->
                             <div class="col-xs-6 text-center">
@@ -279,7 +279,7 @@
                 <!-- BAR CHART -->
                 <div class="box box-success" style="display: none;">
                     <div class="box-header with-border">
-                        <h3 class="box-title">Variação do grau de escolaridade dos eleitores e candidatos no passar dos anos</h3>
+                        <h3 class="box-title">Variação do grau de escolaridade dos eleitores e candidatos eleitos no passar dos anos</h3>
                     </div>
                     <div class="box-body">
                         <div class="chart">
@@ -289,7 +289,7 @@
                     <div class="box-footer no-border">
                         <div class="row">
                             <div class="col-xs-6 text-center">
-                                <div class="box-title bg-gray">Cinza = dados dos candidatos</div>
+                                <div class="box-title bg-gray">Cinza = dados dos candidatos eleitos</div>
                             </div>
                             <!-- ./col -->
                             <div class="col-xs-6 text-center">
@@ -317,7 +317,7 @@
                 <div class="col-md-12">
                     <div class="box box-info">
                         <div class="box-header with-border text-center">
-                            <h3 class="box-title">Variação do gênero dos eleitores e candidatos no passar dos anos</h3>
+                            <h3 class="box-title">Variação do gênero dos eleitores e candidatos eleitos no passar dos anos</h3>
                         </div>
                         <!-- /.box-header -->
                         <div class="box-body">
@@ -341,7 +341,7 @@
                         <div class="box-footer no-border">
                             <div class="row">
                                 <div class="col-xs-6 text-center">
-                                    <div class="box-title bg-gray">Cinza = dados dos candidatos</div>
+                                    <div class="box-title bg-gray">Cinza = dados dos candidatos eleitos</div>
                                 </div>
                                 <!-- ./col -->
                                 <div class="col-xs-6 text-center">
@@ -362,7 +362,7 @@
                 <!-- DONUT CHART -->
                 <div class="box box-danger">
                     <div class="box-header with-border text-center">
-                        <h3 class="box-title">Variação do gênero dos eleitores e candidatos no passar dos anos</h3>
+                        <h3 class="box-title">Variação do gênero dos eleitores e candidatos eleitos no passar dos anos</h3>
                     </div>
                     <div class="box-body">
                         <canvas  id="barChart2" style="height:250px"></canvas>
@@ -371,7 +371,7 @@
                     <div class="box-footer no-border">
                         <div class="row">
                             <div class="col-xs-6 text-center">
-                                <div class="box-title bg-gray">Cinza = dados dos candidatos</div>
+                                <div class="box-title bg-gray">Cinza = dados dos candidatos eleitos</div>
                             </div>
                             <!-- ./col -->
                             <div class="col-xs-6 text-center">
@@ -390,7 +390,7 @@
                 <!-- LINE CHART -->
                 <div class="box box-info">
                     <div class="box-header with-border text-center">
-                        <h3 class="box-title">Variação do gênero dos eleitores e candidatos no passar dos anos</h3>
+                        <h3 class="box-title">Variação do gênero dos eleitores e candidatos eleitos no passar dos anos</h3>
                     </div>
                     <div class="box-body">
                         <div class="chart">
@@ -400,7 +400,7 @@
                     <div class="box-footer no-border">
                         <div class="row">
                             <div class="col-xs-6 text-center">
-                                <div class="box-title bg-gray">Cinza = dados dos candidatos</div>
+                                <div class="box-title bg-gray">Cinza = dados dos candidatos eleitos</div>
                             </div>
                             <!-- ./col -->
                             <div class="col-xs-6 text-center">
@@ -417,7 +417,7 @@
                 <!-- BAR CHART -->
                 <div class="box box-success" style="display: none;">
                     <div class="box-header with-border">
-                        <h3 class="box-title">Variação do gênero dos eleitores e candidatos no passar dos anos</h3>
+                        <h3 class="box-title">Variação do gênero dos eleitores e candidatos eleitos no passar dos anos</h3>
                     </div>
                     <div class="box-body">
                         <div class="chart">
@@ -427,7 +427,7 @@
                     <div class="box-footer no-border">
                         <div class="row">
                             <div class="col-xs-6 text-center">
-                                <div class="box-title bg-gray">Cinza = dados dos candidatos</div>
+                                <div class="box-title bg-gray">Cinza = dados dos candidatos eleitos</div>
                             </div>
                             <!-- ./col -->
                             <div class="col-xs-6 text-center">
